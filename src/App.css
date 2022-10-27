@@ -1,6 +1,8 @@
 body {
   background-color: #000;
 	color:#FFF;
+	width: 100vw;
+	max-height: 100vh; 
 }
 #system {
   display: flex;
